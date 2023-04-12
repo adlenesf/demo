@@ -49,6 +49,8 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
   Encourage users to open new tabs for steps!
 -->
 
+🙂
+
 <details id=1>
 <summary><h2>Step 1: Create a workflow file</h2></summary>
 
